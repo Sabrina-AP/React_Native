@@ -17,3 +17,4 @@ var app = require('./App/config/server');
 app.listen(3333, function(){
     console.log("Servidor rodando com Express!");
 });
+
